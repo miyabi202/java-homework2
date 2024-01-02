@@ -1,4 +1,4 @@
-<background color=pink> 
+
 # java-homework2
 ## 跳頁練習
 
